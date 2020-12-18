@@ -13,4 +13,9 @@
 <li>Mobile Development   📱   React Native</li>
 </u>
 
+Repositories 📓
+<u>
+<li><a target="_blank" href="https://github.com/maxsl89/webpack-setup-vanilla">webpack-setup-vanilla</a></li>
+
+</u>  
 
