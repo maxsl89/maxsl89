@@ -6,3 +6,11 @@
 <li>Previously worked on Alliance Explorer Group as Web Programmer / IT Manager. 2013-2017 </li>
 </u>
 
+My skills 🔎
+<u>
+<li>Front End Developent   🎨   HTML5, CSS3, Sass, JavaScript, Typescript, React</li>
+<li>Back End Development   💾   Node.js, PHP, MySQL</li>
+<li>Mobile Development   📱   React Native</li>
+</u>
+
+
