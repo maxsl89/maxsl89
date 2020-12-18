@@ -13,7 +13,7 @@
 <li>Mobile Development   📱   React Native</li>
 </u>
 
-Repositories 📓
+<h3>Repositories 📓</h3>
 <u>
 <li><a target="_blank" href="https://github.com/maxsl89/webpack-setup-vanilla">webpack-setup-vanilla</a></li>
 
