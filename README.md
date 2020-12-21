@@ -16,7 +16,9 @@
 <h3>Repositories 📓</h3>
 <u>
 <li><a target="_blank" href="https://github.com/maxsl89/webpack-setup-vanilla">webpack-setup-vanilla</a></li>
+   <li><a target="_blank" href="https://github.com/maxsl89/webpack-setup-vanilla-typescript">webpack-setup-vanilla-typescript</a></li>
 <li><a target="_blank" href="https://github.com/maxsl89/webpack-setup-for-react">webpack-setup-for-react</a></li>
   <li><a target="_blank" href="https://github.com/maxsl89/node-js-best-practices">node-js-best-practices</a></li>
+ 
 </u>  
 
