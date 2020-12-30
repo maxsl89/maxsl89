@@ -23,5 +23,10 @@
  
 </u>  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NPB5Xp0KhXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h3>Portfolio 📓</h3>
+<u>
+   <li><a target="_blank" href="https://www.youtube.com/embed/NPB5Xp0KhXc">React Native app</a></li>
+</u> 
+
+
 
