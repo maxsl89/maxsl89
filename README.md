@@ -8,7 +8,7 @@
 
 <h3>My skills 🔎</h3>
 <u>
-<li>Front End Developent   🎨   HTML5, CSS3, Sass, JavaScript, Typescript, React</li>
+<li>Front End Developent   🎨   HTML5, CSS3, Sass, JavaScript, Typescript, React, Dart</li>
 <li>Back End Development   💾   Node.js, PHP, MySQL</li>
 <li>Mobile Development   📱     Flutter, React Native</li>
 </u>
