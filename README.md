@@ -1,4 +1,7 @@
 ### Hi there 👋 , I'm Viacheslav, Full Stack Developer
+
+<p>telegram: maxsl89</p>
+
 <h3>Work 💼</h3>
 <u>
 <li>I’m currently working on "For Yourself - offline marathons" as React Native Developer - Current</li>
