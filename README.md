@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Viacheslav, Full Stack Developer
+### Hi there 👋 , I'm Viacheslav, Front-end Developer
 
 <p>telegram: maxsl89</p>
 
