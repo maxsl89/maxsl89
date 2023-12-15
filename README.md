@@ -21,10 +21,5 @@
 
 
 
-<h3>Portfolio 📂</h3>
-<u>
-   <li><a target="_blank" href="https://www.youtube.com/embed/NPB5Xp0KhXc">React Native app "For Yourself - offline marathons"</a></li>
-</u> 
-
 
 
