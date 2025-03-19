@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Viacheslav Maksymchuk, Front-end Developer
+### Hi there 👋 , I'm Viacheslav Maksymchuk, Full Stack Developer
 
 <p>telegram: maxsl89</p>
 
