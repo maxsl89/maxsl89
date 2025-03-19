@@ -15,7 +15,7 @@
 <h3>My skills 🔎</h3>
 <u>
 <li>Front End Developent   🎨   HTML5, CSS3, Sass, JavaScript, TypeScript, React</li>
-<li>Back End Development   💾   Node.js, MongoDB</li>
+<li>Back End Development   💾   Node.js, Nest.js, MongoDB</li>
 <li>Mobile Development   📱     React Native + Expo</li>
 </u>
 
